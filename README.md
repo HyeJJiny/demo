@@ -1,2 +1,3 @@
-# 설치 전 실행되어야 하는 것들
-1. java 1.8 버전
+# demo
+git study
+add test
